@@ -1,5 +1,5 @@
 # Decodelab Project 2: Exploratory Data Analysis (EDA)
-GitHub Repository: https://github.com/seankh06/decodelab-project2-eda
+GitHub Repository: https://github.com/seankh06/Decodelabs-Task-2
 
 ## Project Objective
 Perform comprehensive exploratory analysis on the cleaned order dataset to extract revenue trends, statistical metrics, customer behavior, and outlier transactions.
@@ -25,4 +25,4 @@ Perform comprehensive exploratory analysis on the cleaned order dataset to extra
 ## How to Run
 1. Clone repository
 2. Install required libraries: `pip install pandas matplotlib seaborn openpyxl`
-3. Run analysis script: `python "Decodelabs Project 2.py"`
+3. Run analysis script: `python "Task-2-SeanKennethH.py"`
