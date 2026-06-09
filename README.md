@@ -15,7 +15,6 @@ Perform comprehensive exploratory analysis on the cleaned order dataset to extra
 ## Files Included
 1. `Decodelabs Project 2.py` – Full EDA, statistics, and plotting script
 2. `Dataset for Data Analytics.xlsx` – Raw source data
-3. `Cleaned_OrderDataset_Project2.csv` – Exported post-clean dataset
 
 ## Tech Stack
 - Python (Pandas, Matplotlib, Seaborn, openpyxl)
